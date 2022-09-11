@@ -28,7 +28,7 @@ To configure login feature with this library, follow these steps:
 
     ``app.UseAuthentication();``
     
-5. Set up an authorization class that will have ``Register()`` and ``Login()`` functions.
+5. Set up an authorization controller that will have ``Register()`` and ``Login()`` functions.
    I have it like so:
    
    ![authcontroller](https://user-images.githubusercontent.com/99867292/189518993-24948303-e369-4b0a-9987-4e62773f4825.PNG)
