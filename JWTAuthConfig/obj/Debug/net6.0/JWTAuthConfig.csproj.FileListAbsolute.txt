@@ -1,0 +1,12 @@
+C:\Users\user\.vscode-insiders\projects\JWTAuthConfig\JWTAuthConfig\bin\Debug\net6.0\JWTAuthConfig.deps.json
+C:\Users\user\.vscode-insiders\projects\JWTAuthConfig\JWTAuthConfig\bin\Debug\net6.0\JWTAuthConfig.dll
+C:\Users\user\.vscode-insiders\projects\JWTAuthConfig\JWTAuthConfig\bin\Debug\net6.0\JWTAuthConfig.pdb
+C:\Users\user\.vscode-insiders\projects\JWTAuthConfig\JWTAuthConfig\obj\Debug\net6.0\JWTAuthConfig.csproj.AssemblyReference.cache
+C:\Users\user\.vscode-insiders\projects\JWTAuthConfig\JWTAuthConfig\obj\Debug\net6.0\JWTAuthConfig.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\.vscode-insiders\projects\JWTAuthConfig\JWTAuthConfig\obj\Debug\net6.0\JWTAuthConfig.AssemblyInfoInputs.cache
+C:\Users\user\.vscode-insiders\projects\JWTAuthConfig\JWTAuthConfig\obj\Debug\net6.0\JWTAuthConfig.AssemblyInfo.cs
+C:\Users\user\.vscode-insiders\projects\JWTAuthConfig\JWTAuthConfig\obj\Debug\net6.0\JWTAuthConfig.csproj.CoreCompileInputs.cache
+C:\Users\user\.vscode-insiders\projects\JWTAuthConfig\JWTAuthConfig\obj\Debug\net6.0\JWTAuthConfig.dll
+C:\Users\user\.vscode-insiders\projects\JWTAuthConfig\JWTAuthConfig\obj\Debug\net6.0\refint\JWTAuthConfig.dll
+C:\Users\user\.vscode-insiders\projects\JWTAuthConfig\JWTAuthConfig\obj\Debug\net6.0\JWTAuthConfig.pdb
+C:\Users\user\.vscode-insiders\projects\JWTAuthConfig\JWTAuthConfig\obj\Debug\net6.0\ref\JWTAuthConfig.dll
